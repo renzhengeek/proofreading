@@ -1,0 +1,15 @@
+1. Top Directory
+==
+Each chapter has its own directory like intro, address, process and so on.
+
+2. Where to Place the bugs
+==
+In top directory, there are files named by page number. List bugs in its page number named file.
+
+3. Bug Report format
+==
+Bug id: in each file, start from 1 and increase sequence.
+Line number: located at which lines.
+Wrong words: words or paragraph.
+Corrected words: fixed words.
+Reporter: who report this bug.
