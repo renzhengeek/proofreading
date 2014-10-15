@@ -9,7 +9,7 @@ In top directory, there are files named by page number. List bugs in its page nu
 3. Bug Report format
 ==
 Bug id: in each file, start from 1 and increase sequence.
-Line number: located at which lines.
+position: for example, 5/1 is in 1th line of 5th paragraph.
 Wrong words: words or paragraph.
 Corrected words: fixed words.
 Reporter: who report this bug.
